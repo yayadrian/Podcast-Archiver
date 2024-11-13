@@ -125,7 +125,7 @@ async function backupPodcast(rssUrl: string, outputDir: string) {
 }
 
 // Execute the backup
-const RSS_URL = "https://pinecast.com/feed/asostechpodcast";
+const RSS_URL = "https://housefinesse.com/feed/podcast/";
 const OUTPUT_DIR = "./podcast_backup";
 
 if (import.meta.main) {
